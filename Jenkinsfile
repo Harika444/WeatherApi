@@ -6,7 +6,7 @@ node
 	  }
 	  stage('Code Checkout')
 	  {
-		  git url: 'https://github.com/knagu/WeatherApi.git'
+		  git url: 'https://github.com/Harika444/WeatherApi.git'
 	  }	  
           stage('Build Stage')
 	  {	   	  
